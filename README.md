@@ -20,9 +20,7 @@ To run the **GameHub** project locally:
    ```bash
    npm install
    ```
-3. **Get a RAWG API key**
-   Visit [RAWG API Docs](https://rawg.io/apidocs) and create an account to obtain your API key.
-4. **Start the development server**:
+3. **Start the development server**:
 
    ```bash
    npm run dev
