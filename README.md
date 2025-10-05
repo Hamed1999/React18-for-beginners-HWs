@@ -1,14 +1,38 @@
 # React Course for Beginners — Homeworks
 
-This repository contains my solutions and homeworks from the **“React Course for Beginners”** by [Code with Mosh](https://codewithmosh.com/p/ultimate-react-part1).
+This repository contains my solutions, trainings and homeworks from the **[React Course for Beginners](https://codewithmosh.com/p/ultimate-react-part1)** by *Code with Mosh*.
 
 > A step-by-step guide to building modern web applications using **React 18+** and **TypeScript**.
 
 ---
 
+## 🚀 Getting Started
+
+To run the **GameHub** project locally:
+
+1. **Clone** this repository:
+
+   ```bash
+   git clone https://github.com/Hamed1999/React18-for-beginners-HWs.git
+   ```
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+3. **Get a RAWG API key**
+   Visit [RAWG API Docs](https://rawg.io/apidocs) and create an account to obtain your API key.
+4. **Start the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
 ## 📘 Course Overview
 
-This course covers the fundamentals of React, including:
+This course covers the core concepts of React, including:
 
 * Component architecture
 * State and props management
@@ -21,11 +45,11 @@ This course covers the fundamentals of React, including:
 
 ## 🎯 Purpose
 
-The goal of this repository is to document my learning progress and provide reference implementations for each homework and assignment from the course.
+This repository documents my learning journey and showcases solutions for each assignment and project from the course.
+It serves as a reference for building clean, maintainable React applications with TypeScript.
 
 ---
 
 ## 🔗 Course Link
 
 👉 [Ultimate React Course (Part 1)](https://codewithmosh.com/p/ultimate-react-part1)
-
