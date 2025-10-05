@@ -141,4 +141,3 @@ Building **type-safe and maintainable React applications** with TypeScript.
 
 
 
-Do you want me to do that?
