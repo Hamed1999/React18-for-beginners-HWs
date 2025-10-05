@@ -13,7 +13,7 @@ To run the **GameHub** project locally:
 1. **Clone** this repository:
 
    ```bash
-   git clone https://github.com/Hamed1999/React18-for-beginners-HWs.git
+   git clone https://github.com/Hamed1999/react-app.git
    ```
 2. **Install dependencies**:
 
