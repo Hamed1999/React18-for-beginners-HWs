@@ -1,0 +1,13 @@
+body {
+  padding: 20px;
+}
+
+form, .ExpenseFilter {
+  width: 50vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+table{
+  text-align: center;
+}
